@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0ec6c87.css",
-    "main.js": "/static/js/main.36ac2377.js",
+    "main.js": "/static/js/main.fce6c376.js",
     "static/media/juwe-background.png": "/static/media/juwe-background.5e47fed9bad9dc8ed76d.png",
     "static/media/patryk.jpg": "/static/media/patryk.6b38fefd226cc774d0c0.jpg",
     "static/media/michał.jpg": "/static/media/michał.58c38d6b48d5eeaa2d90.jpg",
@@ -37,13 +37,14 @@
     "static/media/szymon.jpg": "/static/media/szymon.b47007d696203b93dec8.jpg",
     "static/media/stodola.png": "/static/media/stodola.fadfe1bb818980f539a8.png",
     "static/media/codeEurope.png": "/static/media/codeEurope.3b558a87941f27d7ed97.png",
+    "static/media/zosia.jpg": "/static/media/zosia.ca323719637353bcdb2a.jpg",
     "static/media/kasia.jpg": "/static/media/kasia.6860507da9d9ac6df69d.jpg",
     "index.html": "/index.html",
     "main.b0ec6c87.css.map": "/static/css/main.b0ec6c87.css.map",
-    "main.36ac2377.js.map": "/static/js/main.36ac2377.js.map"
+    "main.fce6c376.js.map": "/static/js/main.fce6c376.js.map"
   },
   "entrypoints": [
     "static/css/main.b0ec6c87.css",
-    "static/js/main.36ac2377.js"
+    "static/js/main.fce6c376.js"
   ]
 }
