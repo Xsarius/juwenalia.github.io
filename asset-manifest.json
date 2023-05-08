@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0ec6c87.css",
-    "main.js": "/static/js/main.a0edff48.js",
+    "main.js": "/static/js/main.95157928.js",
     "static/media/juwe-background.png": "/static/media/juwe-background.5e47fed9bad9dc8ed76d.png",
     "static/media/patryk.jpg": "/static/media/patryk.6b38fefd226cc774d0c0.jpg",
     "static/media/michał.jpg": "/static/media/michał.58c38d6b48d5eeaa2d90.jpg",
@@ -25,6 +25,7 @@
     "static/media/uberEats.png": "/static/media/uberEats.c52a109a77c9de50820d.png",
     "static/media/julka.jpg": "/static/media/julka.0388c158116bac25d2e7.jpg",
     "static/media/wiktoria.jpg": "/static/media/wiktoria.eabb4d2a52eeeb0f8851.jpg",
+    "static/media/iTech.png": "/static/media/iTech.e9dd1cb54bf67a615ca9.png",
     "static/media/paulina.jpg": "/static/media/paulina.627570ff0eab34a52eb6.jpg",
     "static/media/mati.jpg": "/static/media/mati.210c85d94e6ad9140bfd.jpg",
     "static/media/klaudia.jpg": "/static/media/klaudia.6caee84055ddd145ac98.jpg",
@@ -41,10 +42,10 @@
     "static/media/kasia.jpg": "/static/media/kasia.6860507da9d9ac6df69d.jpg",
     "index.html": "/index.html",
     "main.b0ec6c87.css.map": "/static/css/main.b0ec6c87.css.map",
-    "main.a0edff48.js.map": "/static/js/main.a0edff48.js.map"
+    "main.95157928.js.map": "/static/js/main.95157928.js.map"
   },
   "entrypoints": [
     "static/css/main.b0ec6c87.css",
-    "static/js/main.a0edff48.js"
+    "static/js/main.95157928.js"
   ]
 }
