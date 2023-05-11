@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e0cb4667.css",
-    "main.js": "/static/js/main.0399d747.js",
+    "main.js": "/static/js/main.66dc3bbc.js",
     "static/media/juwe-background.png": "/static/media/juwe-background.5e47fed9bad9dc8ed76d.png",
     "static/media/patryk.jpg": "/static/media/patryk.6b38fefd226cc774d0c0.jpg",
     "static/media/michał.jpg": "/static/media/michał.58c38d6b48d5eeaa2d90.jpg",
@@ -9,6 +9,7 @@
     "static/media/kochamskakac.png": "/static/media/kochamskakac.848a2d19df1b4df6f61e.png",
     "static/media/julka_f.jpg": "/static/media/julka_f.ae721c2d4bf922959280.jpg",
     "static/media/koszyki.png": "/static/media/koszyki.27c45026beecb3fd8310.png",
+    "static/media/krzywe.png": "/static/media/krzywe.9843b6bf249a926bbfc6.png",
     "static/media/zuza.jpg": "/static/media/zuza.b43bc1bcb58f9054113b.jpg",
     "static/media/st.png": "/static/media/st.5b620b7d1d6f97e75b74.png",
     "static/media/andrzej.jpg": "/static/media/andrzej.a9ab0b52321c82fcf6d4.jpg",
@@ -16,6 +17,7 @@
     "static/media/tomek.jpg": "/static/media/tomek.8a4adb836411f8a93d97.jpg",
     "static/media/legalnaKultura.png": "/static/media/legalnaKultura.ce0e23fface7a945ad1e.png",
     "static/media/sspw.png": "/static/media/sspw.4aac71b61b35ec6f6eb8.png",
+    "static/media/converse.png": "/static/media/converse.a571840a9cbabfbc4e1e.png",
     "static/media/kuba.jpg": "/static/media/kuba.cebdf9842f2db80bb65a.jpg",
     "static/media/filip.jpg": "/static/media/filip.a36fe5087639398420f2.jpg",
     "static/media/bartek.jpg": "/static/media/bartek.46cafa84779228ff0f31.jpg",
@@ -32,21 +34,23 @@
     "static/media/klaudia.jpg": "/static/media/klaudia.6caee84055ddd145ac98.jpg",
     "static/media/wojtek.jpg": "/static/media/wojtek.12e459601d6d65e79fd5.jpg",
     "static/media/jakdojade.png": "/static/media/jakdojade.ed4420c46370326a1c45.png",
+    "static/media/pasja.png": "/static/media/pasja.6dac513d1b32f7da4e44.png",
     "static/media/skrm.png": "/static/media/skrm.1894141a10764c6e95b7.png",
     "static/media/Urbane-DemiBold.woff": "/static/media/Urbane-DemiBold.28a0ba03cab09236a270.woff",
     "static/media/eskarock.png": "/static/media/eskarock.d076f554271da1e0ea12.png",
     "static/media/eska.png": "/static/media/eska.8674ef75ec10fe04ea08.png",
     "static/media/szymon.jpg": "/static/media/szymon.b47007d696203b93dec8.jpg",
+    "static/media/gamionary.png": "/static/media/gamionary.52f8c29116e2c616fa01.png",
     "static/media/stodola.png": "/static/media/stodola.fadfe1bb818980f539a8.png",
     "static/media/codeEurope.png": "/static/media/codeEurope.3b558a87941f27d7ed97.png",
     "static/media/zosia.jpg": "/static/media/zosia.ca323719637353bcdb2a.jpg",
     "static/media/kasia.jpg": "/static/media/kasia.6860507da9d9ac6df69d.jpg",
     "index.html": "/index.html",
     "main.e0cb4667.css.map": "/static/css/main.e0cb4667.css.map",
-    "main.0399d747.js.map": "/static/js/main.0399d747.js.map"
+    "main.66dc3bbc.js.map": "/static/js/main.66dc3bbc.js.map"
   },
   "entrypoints": [
     "static/css/main.e0cb4667.css",
-    "static/js/main.0399d747.js"
+    "static/js/main.66dc3bbc.js"
   ]
 }
